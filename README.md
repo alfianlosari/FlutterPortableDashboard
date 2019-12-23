@@ -2,7 +2,7 @@
 
 Flutter Project showcasing responsive dashboard running accross platforms with Flutter 1.12 and charts_flutter
 
-![Alt text](./splash.png?raw=true "Flutter Portable Dashboard")
+![Alt text](./promo.png?raw=true "Flutter Portable Dashboard")
 
 ## Getting Started
 -Download and install Flutter SDK 1.12
