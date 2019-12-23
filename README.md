@@ -5,9 +5,9 @@ Flutter Project showcasing responsive dashboard running accross platforms with F
 ![Alt text](./promo.png?raw=true "Flutter Portable Dashboard")
 
 ## Getting Started
--Download and install Flutter SDK 1.12
--Clone
--Build and run project
+- Download and install Flutter SDK 1.12
+- Clone
+- Build and run project
 
 
 ## Try the Web Version
